@@ -1,0 +1,23 @@
+P{
+   Color:#D4F1ED;
+   font-family: verdana; 
+}
+h1{
+    color:#6AD3C4;
+	font-family: script;
+}
+body{
+background-color: #000302 ; 
+}
+
+P{
+   Color:#D4F1ED;
+   font-family: verdana; 
+}
+h1{
+    color:#6AD3C4;
+	font-family: script;
+}
+body{
+background-color: #BF96D2; 
+}
